@@ -1,1 +1,1 @@
-# CatchTheCion
+# CatchTheCoin
